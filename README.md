@@ -13,3 +13,12 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ## Mantine UI
 
 [Mantine](https://mantine.dev/core/button/) is the UI library I'm using for this project.
+
+## User Stories for base level:
+
+Input the reps for an exercise
+Input the weight for an exercise
+Input a new exercise
+Edit the number of sets for an exercise
+Edit the number of reps for an exercise
+Delete an exercise
